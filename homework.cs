@@ -24,7 +24,7 @@ else
     {
         Console.WriteLine ($"{num2} is the biggest one!");
     }
-    if (num3>num1 && num3>num1)
+    if (num3>num1 && num3>num2)
     {
         Console.WriteLine ($"{num3} is the biggest one!");
     }

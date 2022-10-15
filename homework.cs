@@ -14,3 +14,4 @@ else
     Console.WriteLine ("Plese, try again, this is odd");
 
 }
+//бесконечный цикл

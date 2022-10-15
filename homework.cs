@@ -10,6 +10,6 @@ if (num1%2==0)
 }
 else 
 {
-    Console.WriteLine ("Plese, try again, this is odd");
+    Console.WriteLine ("This is odd, please try again");
 
 }

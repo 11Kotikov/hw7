@@ -9,3 +9,5 @@ while (current<=num1)
     Console.Write ($"{current} ");
     current=current+2;
     }
+
+    //эта была последняя
